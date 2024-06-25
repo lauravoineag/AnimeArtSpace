@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Anime Art Space</string>
+
+    <string name="ai_girl">AI Girl</string>
+    <string name="girl_superhero">Girl Superhero</string>
+    <string name="girl_under_water">Girl Under Water</string>
+    <string name="girl_in_autumn">Girl In Autumn</string>
+
+    <string name="ai_girl_description">Innocence</string>
+    <string name="girl_superhero_description">We are stronger than we think</string>
+    <string name="girl_under_water_description">Vulnerability</string>
+    <string name="girl_in_autumn_description">Strength</string>
+
+</resources>
